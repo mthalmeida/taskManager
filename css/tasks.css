@@ -1,0 +1,11 @@
+.tableResult {
+  margin: 0px 50px 0px 50px;
+  border-radius: 10px;
+  background: #ffffff;
+  box-shadow: 20px 20px 60px #bebebe,
+    -20px -20px 60px #ffffff;
+}
+
+.btnAddTask {
+  margin-right: 20px;
+}
